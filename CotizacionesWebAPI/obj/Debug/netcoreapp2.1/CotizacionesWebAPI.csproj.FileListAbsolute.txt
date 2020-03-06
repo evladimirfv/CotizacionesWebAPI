@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\CotizacionesWebAPI.deps.json
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\CotizacionesWebAPI.runtimeconfig.json
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\CotizacionesWebAPI.runtimeconfig.dev.json
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\CotizacionesWebAPI.dll
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\bin\Debug\netcoreapp2.1\CotizacionesWebAPI.pdb
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\obj\Debug\netcoreapp2.1\CotizacionesWebAPI.RazorAssemblyInfo.cache
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\obj\Debug\netcoreapp2.1\CotizacionesWebAPI.RazorAssemblyInfo.cs
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\obj\Debug\netcoreapp2.1\CotizacionesWebAPI.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\obj\Debug\netcoreapp2.1\CotizacionesWebAPI.AssemblyInfo.cs
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\obj\Debug\netcoreapp2.1\CotizacionesWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\obj\Debug\netcoreapp2.1\CotizacionesWebAPI.dll
+C:\Users\user1\source\repos\CotizacionesWebAPI\CotizacionesWebAPI\obj\Debug\netcoreapp2.1\CotizacionesWebAPI.pdb
